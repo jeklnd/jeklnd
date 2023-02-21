@@ -1,4 +1,4 @@
-# tl;dr I can help your team develop websites, apps, emails, and more – take a look at my pinned projects!
+# tl;dr I can help your team develop websites, apps, emails, and more – take a look at my pinned projects' live demos!
 
 - 👋 Hi, I’m @jeklnd.
 - 🚀 Self-taught frontend web developer proficient in HTML, CSS, JavaScript, React, Node.js, Express and other relevant technologies.
