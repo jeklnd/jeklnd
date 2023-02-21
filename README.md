@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeklnd
-- 🚀 Self-taught frontend web developer with proficiency in HTML, CSS, JavaScript, and other relevant technologies
+- 🚀 Self-taught frontend web developer with proficiency in HTML, CSS, JavaScript, React, Node.js, Express and other relevant technologies
 - 📚 Completed multiple online courses and personal projects to develop and enhance skills
 - 💻 Passionate about applying frontend development skills to real-world projects
 - 🤝 Excited to contribute as a part of a professional team in the field.
