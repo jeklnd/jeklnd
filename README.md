@@ -1,4 +1,4 @@
-# I can build your frontend and solve technical problems.
+# My goal is to provide business value and level up my skills.
 
 - 👋 Hi, I’m @jeklnd.
 - 🚀 To solve technical problems I usually reach for JavaScript, React, HTML, CSS, Nextjs, and Material UI, but I'm familiar with many technologies and learn quickly on the job. I'm particularly good at building static sites from design mockups.
