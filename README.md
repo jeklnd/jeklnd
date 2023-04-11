@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Jesse+Krensel.;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=26&duration=1600&pause=2000&color=4CC9F0&background=405FE300&multiline=true&width=535&height=90&lines=Hey!+It's+nice+to+meet+you.;I'm+Jesse+Krensel.+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h3 align="left">About me:</h3>
 
-Hi there! My name is Jesse Krensel and I'm an up-and-coming frontend developer based outside Philadelphia, PA. When I'm not nose deep in documentation or working on projects, you can usually find me trying new restaurants and cruising just below the motor kill-switch speed on my EUC. I'm a big fan of travelling, sushi, productivity, good books, and I'm always looking for new recommendations.
+Hi there! I'm an up-and-coming developer based oustide Philadelphia, PA and interested in all things web development, frontend engineering, and UI/UX. When I'm not nose deep in documentation or working on projects, you can usually find me trying new restaurants and cruising just below the motor kill-switch speed on my EUC. I'm a big fan of travelling, sushi, productivity, good books, and I'm always looking for new recommendations.
 
 Thanks for stopping by, and feel free to reach out if you'd like to chat or connect!
 
