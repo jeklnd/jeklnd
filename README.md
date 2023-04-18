@@ -2,9 +2,9 @@
 
 <h3 align="left">About me:</h3>
 
-Hi there! I'm an up-and-coming software engineer and web developer based oustide Philadelphia, PA and interested in all things sofware, web, frontend, and UI/UX. When I'm I'm not coding and working on projects, you can find me trying new restaurants, exploring, and learning.
+Hi there! I'm a software engineer and web developer based oustide Philadelphia, PA and interested in all things software, web, frontend, and UI/UX. When I'm I'm not coding and working on projects, you can find me trying new restaurants, exploring, and learning.
 
-Thanks for stopping by, and feel free to reach out if you'd like to chat or connect!
+Thanks for stopping by, and feel free to reach out to chat or connect!
 
 - 📫 How to reach me jdkrensel@gmail.com or **👇**
 
