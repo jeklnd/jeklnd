@@ -2,11 +2,9 @@
 
 <h3 align="left">About me:</h3>
 
-Hi there! I'm an up-and-coming developer based oustide Philadelphia, PA and interested in all things web development, frontend engineering, and UI/UX. When I'm not nose deep in documentation or working on projects, you can usually find me trying new restaurants and cruising just below the motor kill-switch speed on my EUC. I'm a big fan of travelling, sushi, productivity, good books, and I'm always looking for new recommendations.
+Hi there! I'm an up-and-coming software engineer and web developer based oustide Philadelphia, PA and interested in all things sofware, web, frontend, and UI/UX. When I'm I'm not coding and working on projects, you can find me trying new restaurants, exploring, and learning.
 
 Thanks for stopping by, and feel free to reach out if you'd like to chat or connect!
-
-- 🌱 I’m currently learning **Redux, Typescript, Firebase, GraphQL, Java, Springboot**
 
 - 📫 How to reach me jdkrensel@gmail.com or **👇**
 
