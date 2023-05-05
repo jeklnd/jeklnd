@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 
-I'm a full-stack developer based in Plymouth Meeting, PA and interested in all things web, software, frontend, backend, and UI/UX. When I'm I'm not coding and working on projects, you can find me trying new restaurants, working out, and learning new skills.
+I'm a full stack developer based in Plymouth Meeting, PA and interested in all things web, software, frontend, backend, and UI/UX. When I'm I'm not coding and working on projects, you can find me trying new restaurants, working out, and learning new skills.
 
 Thanks for stopping by, and feel free to reach out to chat or connect!
 
