@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=26&duration=1600&pause=1500&color=4CC9F0&background=405FE300&multiline=true&width=535&height=90&lines=Hello,+it's+nice+to+meet+you!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=26&duration=1200&pause=2000&color=4CC9F0&background=405FE300&multiline=true&width=535&height=90&lines=Hello,+it's+nice+to+meet+you!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h3 align="left">About me:</h3>
 
