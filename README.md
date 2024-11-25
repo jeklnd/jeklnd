@@ -2,9 +2,9 @@
 
 <h3 align="left">About me:</h3>
 
-I'm a full stack developer based in Plymouth Meeting, PA and interested in all things web, software, frontend, backend, and UI/UX. When I'm not coding and working on projects, you can find me trying new restaurants, working out, and learning new skills.
+I build software for healthcare organizations. My interests include Python, cloud services, and data structures and algorithms. Besides coding, I like to work out and travel.
 
-Thanks for stopping by, and feel free to reach out to chat or connect!
+Please reach out with all inquiries.
 
 - 📫 How to reach me jdkrensel@gmail.com or **👇**
 
